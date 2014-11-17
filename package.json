@@ -1,8 +1,8 @@
 {
     "name": "hashring-0.0.6"
-  , "version": "0.0.6"
-  , "author": "Arnout Kazemier"
-  , "description": "A pure JavaScript hash ring based on libketama"
+  , "version": "0.0.6-pkg"
+  , "author": [ "Arnout Kazemier", "XadillaX" ]
+  , "description": "A pure JavaScript hash ring based on libketama."
   , "main": "index"
   , "keywords":[
         "hashring"
@@ -26,7 +26,7 @@
     }]
   , "repositories": [{
         "type": "git"
-      , "url" : "http://github.com/3rd-Eden/node-hashring.git"
+      , "url" : "http://github.com/XadillaX/node-hashring.git"
     }]
   , "dependencies": {
         "bisection": ""
