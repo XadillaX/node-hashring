@@ -1,5 +1,5 @@
 {
-    "name": "hashring"
+    "name": "hashring-0.0.6"
   , "version": "0.0.6"
   , "author": "Arnout Kazemier"
   , "description": "A pure JavaScript hash ring based on libketama"
